@@ -1,0 +1,2 @@
+# IntuneSecurityBaselineConfigurationProfiles
+Security Baselines for Intune as Configuration Profile
