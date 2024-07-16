@@ -1,5 +1,5 @@
 # IntuneSecurityBaselineConfigurationProfiles
-Security Baselines for Intune as Configuration Profile
+W11 23H2 Security Baselines for Intune as Configuration Profile
 
 Intune includes Security Baselines under Endpoint Security. While this is convenient, it has its disadvantages:
 
